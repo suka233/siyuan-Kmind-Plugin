@@ -37,4 +37,4 @@ node_modules
 dev
 dist
 build
-!/package.zip
+package.zip
