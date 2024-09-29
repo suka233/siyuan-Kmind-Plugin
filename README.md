@@ -1,11 +1,29 @@
 # 思源笔记-kmind 插件
+
     xmind你不要打电话来了，我怕kmind误会
 
-## QQ交流群号：130584086
+## QQ交流群号：[130584086](https://qm.qq.com/cgi-bin/qm/qr?k=ViZ2ouiFw8LF5Zx1fg1SQUr1Y0bH1FAR&jump_from=webapi&authKey=UR61OGV1muKUgQZFTdBuxgdcXDWm2TLGisL5RZ9X6VYRY7NPM32L4ciyF426+qPF)
 
 ## 在线反馈：[点我反馈](https://txc.qq.com/products/662653)
 
 ## 最近一次更新记录
+
+### [v2.3.1（2024年9月29日）](https://ld246.com/article/1727602784074)
+
+说明：
+
+- 优化了挂件的使用方式，优化了挂件和镜像块蒙版的展示效果，优化底部工具栏的展示位置
+
+新增：
+
+- 新增了挂件的快捷穿透蒙版功能：按住ctrl键+左键单击节点，可以快速聚焦节点，直接进行编辑
+- 底部工具栏新增禅模式按钮，现在移动端不必调出右键菜单就能直接进入禅模式了
+- 新增了镜像块的一键跳转编辑功能，点击镜像块的右上角，即可跳转到源导图进行编辑（pro）
+
+优化：
+
+- 优化了挂件和镜像块蒙版的展示效果，现在只有鼠标划上去，才会展示蒙版提示
+- 优化底部工具栏的位置，现在会随着侧栏的展开而动态更改位置了，避免被覆盖
 
 ### v2.3.0（2024年9月21日）
 
@@ -37,7 +55,7 @@
 说明：
 
 - 中秋快乐~此为中秋特别版
-- 加入了大家期待已久的付费功能 - -！付费指引[点我查看](https://siyuannote.space/x/20240917120223-roa3lpm)，以下有`(pro)`后缀的功能为付费功能
+- 加入了大家期待已久的付费功能 - -！付费指引[点我查看](https://siyuannote.space/x/20240917120223-roa3lpm)，以下有 `(pro)`后缀的功能为付费功能
 - 建议在PC端扫码付费，然后通过思源的云同步，将KMind付费状态同步到移动端，移动端同步后，重启一下移动端的思源即可。
 
 新增：
@@ -51,26 +69,29 @@
 - 优化镜像块的性能
 
 ## 使用方式
+
 1.在插件市场安装并启用后，在左下角找到kmind的dock，然后点击新建即可
 ![newKmind.gif](img%2FnewKmind.gif)
 
 2.快捷键的说明详见插件菜单（挂件遇到此问题同理）
 ![shortcut.png](img%2Fshortcut.png)
+
 ## 反馈
 
-如果你需要反馈，可以去我的github仓库提交[issue](https://github.com/suka233/siyuan-kmind-plugin/issues),如果你没有github账号，可以[点我反馈](https://wj.qq.com/s2/12591272/adf1/)。如果你要捐赠我，可以[点我](https://wj.qq.com/s2/12591272/adf1/)，
+如果你需要反馈，可以去我的github仓库提交[issue](https://github.com/suka233/siyuan-kmind-plugin/issues),如果你没有github账号，可以[点我反馈](https://txc.qq.com/products/662653)。如果你要捐赠我，可以[点我](https://wj.qq.com/s2/12591272/adf1/)，
 或者去我的github仓库给[本插件](https://github.com/suka233/siyuan-kmind-plugin/issues)点一颗star吧~
 
 ## 付费
 
-kmind插件的基础编辑功能永久免费使用，不限制导图数量，也不限制节点数量。之后与思源或者外部结合的高级功能可能需要付费 ~~（目前此插件收益负50元，因为我向上游库的导图库作者捐赠了50元😋 ）~~~~，~~~~等到正式付费，各位的捐赠金额可以双倍抵扣kmind费用。~~
+kmind插件的基础编辑功能永久免费使用，不限制导图数量，也不限制节点数量。~~之后与思源或者外部结合的高级功能可能需要付费 （目前此插件收益负50元，因为我向上游库的导图库作者捐赠了50元😋 ），等到正式付费，各位的捐赠金额可以双倍抵扣kmind费用。~~
 
-kmind pro版本已经上线，请在发布日前的捐赠过的用户输入自己的转账单号，即可自动计算抵扣金额，有任何疑问请qq群联系我：QQ交流群号：130584086
+kmind pro版本已经上线，不会影响免费版使用，只是多了两个跟思源结合的pro功能。请在发布日前的捐赠过的用户输入自己的转账单号，即可自动计算抵扣金额，注意，由于微信捐赠码设计原因（付款方转账单号和收款方转账单号不一致），所以请先加qq群私聊我你的转账单号。。！
+有任何疑问请qq群联系我：QQ交流群号：[130584086](https://qm.qq.com/cgi-bin/qm/qr?k=ViZ2ouiFw8LF5Zx1fg1SQUr1Y0bH1FAR&jump_from=webapi&authKey=UR61OGV1muKUgQZFTdBuxgdcXDWm2TLGisL5RZ9X6VYRY7NPM32L4ciyF426+qPF)
 
 感谢各位的捐赠，时间有限，不能一一列出~。~ 主要是懒
 
-
 ## 缘起
+
 思源笔记是一款我很喜欢的笔记软件，但是它的导图功能却不是很完善，而我恰好是思维导图重度使用者
 
 一直以来都是用的xmind做笔记，规划生活等等，但是由于xmind比较贵，并且绑定设备，而且必须要使用xmind客户端才能打开，
@@ -102,10 +123,9 @@ kmind pro版本已经上线，请在发布日前的捐赠过的用户输入自�
 
 7.数据安全：kmind的所有数据全部存储于本地，并且与思源的笔记本数据完全隔离，也没有任何交互。所以不会对思源的数据造成任何影响。此外，kmind会在你编辑的时候，智能每隔1s自动保存数据到本地，意外断电也不怕丢失啦。
 
-
 ## 致谢
 
-感谢[@wanglin2/mind-map](https://github.com/wanglin2/mind-map)大佬开发的导图库，没有他就没有本项目
+感谢[@wanglin2/mind-map](https://github.com/wanglin2/mind-map)大佬开发的导图库，没有他就没有本项目，如果您对导图的功能满意，请考虑直接[捐赠他](https://wanglin2.github.io/mind-map-docs/sponsor.html)
 
 感谢思源目录插件作者：[@TinkMingKing](https://github.com/TinkMingKing/siyuan-index-plugins) 大佬的提议与帮助
 
@@ -126,6 +146,7 @@ kmind pro版本已经上线，请在发布日前的捐赠过的用户输入自�
 - 跟KMind挂件更新保持一致。
 
 新增：
+
 - 更新图标ICON的视觉风格，入口：选择节点->图标->表情图标
 
 修复：
@@ -178,7 +199,6 @@ kmind pro版本已经上线，请在发布日前的捐赠过的用户输入自�
 
 - 修复思源v2.12.4版本更新导致的dock图标过大的bug
 
-
 #### v1.1.5（2024年2月18日）
 
 修复：
@@ -188,10 +208,13 @@ kmind pro版本已经上线，请在发布日前的捐赠过的用户输入自�
 #### v1.1.4
 
 修复：
+
 - 修复思源版本v2.10.9更新插件api导致无法打开tab页的bug，该版本可能无法在低于v2.10.9的思源版本中使用
 
 新增：
+
 - 复制kmind超链接的功能：现在，你可以复制一个kmind的超链接，然后在另一个kmind的节点上或者思源中或者其它任何地方粘贴，点击即可跳转到该kmind。
 
 优化：
+
 - 点击左下角dock栏的kmind文件列表，如果该kmind已经打开，则会自动跳转到已经打开的tab页
