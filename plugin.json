@@ -2,7 +2,7 @@
   "name": "kmind-plugin",
   "author": "suka233",
   "url": "https://github.com/suka233/siyuan-kmind-plugin",
-  "version": "2.4.0-plugin.1",
+  "version": "2.4.1-plugin.1",
   "minAppVersion": "2.10.9",
   "backends": ["all"],
   "frontends": ["all"],
