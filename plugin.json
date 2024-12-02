@@ -2,23 +2,24 @@
   "name": "kmind-plugin",
   "author": "suka233",
   "url": "https://github.com/suka233/siyuan-kmind-plugin",
-  "version": "2.5.0",
-  "kmindReleaseMsg": "新增历史记录一键预览回滚功能，异常数据写入拦截功能",
+  "version": "2.6.0",
+  "kmindReleaseMsg": "新增全局配置功能，需要在插件里设置全局导图行为，新增直接粘贴思源超链接为节点超链接功能",
   "minAppVersion": "2.10.9",
   "backends": ["all"],
   "frontends": ["all"],
   "displayName": {
-    "zh_CN": "Kmind思维导图插件",
-    "en_US": "Kmind plugin"
+    "zh_CN": "KMind思维导图插件",
+    "en_US": "KMind plugin"
   },
   "description": {
-    "zh_CN": "Kmind思维导图插件,思源文档一键转导图，导图镜像块，文档树导图等功能，交流QQ群号：130584086",
-    "en_US": "Kmind mind map plugin"
+    "zh_CN": "KMind思维导图插件,思源文档一键转导图，导图镜像块，文档树导图等功能，交流QQ群号：130584086",
+    "en_US": "KMind mind map plugin，one-click convert SiYuan documents to mind maps, mirror blocks, document tree mind maps, etc."
   },
   "readme": {
-    "zh_CN": "README.md"
+    "zh_CN": "README.md",
+    "en_US": "README_en_US.md"
   },
-  "i18n": ["zh_CN"],
+  "i18n": ["zh_CN", "en_US"],
   "funding": {
     "custom": ["https://txc.qq.com/products/662653"]
   }
